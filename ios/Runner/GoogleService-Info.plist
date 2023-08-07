@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>433026157412-r1gsu9q0g3p2t0qd8of9k67d5s6sdtll.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.433026157412-r1gsu9q0g3p2t0qd8of9k67d5s6sdtll</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSQzpBz2c3mASBNs33o_0YwSHcXOZL36A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>433026157412</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pushNotification</string>
+	<key>PROJECT_ID</key>
+	<string>mindsun-notification-teste</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mindsun-notification-teste.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:433026157412:ios:6bb6f0c9baf4d5e4410871</string>
+</dict>
+</plist>
